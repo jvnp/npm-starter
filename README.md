@@ -10,9 +10,9 @@ Custom Starter Project for npm projects
 npm test
 ```
 
-[travis-image]: https://travis-ci.org/jvnp/npm-starter.svg?branch=master
+[travis-image]: https://travis-ci.org/jvnp/npm-starter.svg?branch=main
 [travis-url]: https://travis-ci.org/jvnp/npm-starter
-[coveralls-image]: https://coveralls.io/repos/github/jvnp/npm-starter/badge.svg?branch=master
-[coveralls-url]: https://coveralls.io/github/jvnp/npm-starter?branch=master
+[coveralls-image]: https://coveralls.io/repos/github/jvnp/npm-starter/badge.svg?branch=main
+[coveralls-url]: https://coveralls.io/github/jvnp/npm-starter?branch=main
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-link]: https://opensource.org/licenses/MIT
