@@ -15,6 +15,16 @@ Custom Starter Project for npm projects
 npm test
 ```
 
+# linting
+
+```sh
+npm run lint
+
+OR
+
+npm run lint-fix # with lint fix
+```
+
 [circle-ci-image]: https://circleci.com/gh/jvnp/npm-starter/tree/main.svg?style=svg
 [circle-ci-url]: https://circleci.com/gh/jvnp/npm-starter/tree/main
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
