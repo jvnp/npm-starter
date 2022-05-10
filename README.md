@@ -4,6 +4,12 @@ Custom Starter Project for npm projects
 [![CircleCI][circle-ci-image]][circle-ci-url]
 [![License: MIT][license-image]][license-link]
 
+
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jvnp/npm-starter.svg)](https://github.com/jvnp/box/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/jvnp/npm-starter.svg)](https://github.com/jvnp/box/issues)
+[![GitHub watchers](https://img.shields.io/github/watchers/jvnp/npm-starter.svg?style=social&label=Watch)](https://github.com/jvnp/npm-starter/watchers)
+
+
 # testing
 ```sh
 npm test
