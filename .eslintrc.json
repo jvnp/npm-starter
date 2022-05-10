@@ -4,6 +4,17 @@
         "commonjs": true,
         "es2021": true
     },
+    "overrides": [
+        {
+            "files": [
+                "**/*.test.js",
+                "**/*.test.jsx"
+            ],
+            "env": {
+                "jest": true
+            }
+        }
+    ],
     "extends": [
         "standard"
     ],
