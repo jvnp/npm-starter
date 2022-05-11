@@ -5,8 +5,8 @@ Custom Starter Project for npm projects
 [![License: MIT][license-image]][license-link]
 
 
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jvnp/npm-starter.svg)](https://github.com/jvnp/box/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/jvnp/npm-starter.svg)](https://github.com/jvnp/box/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jvnp/npm-starter.svg)](https://github.com/jvnp/npm-starter/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/jvnp/npm-starter.svg)](https://github.com/jvnp/npm-starter/issues)
 [![GitHub watchers](https://img.shields.io/github/watchers/jvnp/npm-starter.svg?style=social&label=Watch)](https://github.com/jvnp/npm-starter/watchers)
 
 
